@@ -3,7 +3,6 @@ import PropType from "prop-types";
 
 const estilos = {
     width: "100%",
-
     marginBottom: 20,
     marginTop: 30,
 
